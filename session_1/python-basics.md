@@ -173,3 +173,103 @@ convert the integer to a string using the `str` expression:
 
 Why not try this out in the micro:bit program from before? Can you spot where
 the number we used before was converted to a string?
+
+# [](#lists)Lists
+
+A list can store a variable number of items.
+To create a list, enclose the comma separated values in
+square brackets `[]`:
+
+```python
+>>> abc = ['a', 'b', 'c']
+>>> abc
+['a', 'b', 'c']
+```
+
+Just like with variables from before, it doesn't matter what types the different
+items have, you can freely mix them.
+
+```python
+>>> my_favorites = [42, 'pizza']
+```
+
+Accessing the items individually is easy if you know their index. Note that the
+first item in a list has the index 0!
+
+```python
+>>> my_favorites[1]
+'pizza'
+```
+
+Of course you can use the list item `'pizza'` like any other string variable:
+
+```python
+>>> 'My favorite food is ' + my_favorites[1] + '.'
+'My favorite food is pizza.'
+```
+
+Whenever there is a value written in the code directly, you can also
+use a variable instead:
+
+```python
+>>> food_index = 1
+>>> 'My favorite food is ' + my_favorites[food_index] + '.'
+'My favorite food is pizza.'
+```
+
+If you have two lists, it is easy to put them together:
+
+```python
+>>> birds = ['pigeon', 'seagull', 'sparrow']
+>>> numbers = [3, 42, 2017]
+>>> birds_and_numbers = birds + numbers
+>>> birds_and_numbers
+['pigeon', 'seagull', 'sparrow', 3, 42, 2017]
+```
+
+Lists are mutable.
+That means you can change a list by adding or removing elements.
+
+```python
+>>> my_list = [1, 2, 'pizza', 'rice']
+>>> my_list.append(42)
+>>> my_list
+[1, 2, 'pizza', 'rice', 42]
+>>> my_list.pop(2)  # pop returns the element at the given index and removes it
+'pizza'
+>>> my_list
+[1, 2, 'rice', 42]
+```
+
+# [](#tuples)Tuples
+
+Tuples, like lists, are a structure containing an arbitrary number of elements.
+Unlike lists, tuples cannot be changed by adding or removing elements, however
+(they are called immutable, strings are immutable too).
+Tuples are created by simply enclosing the values in brackets:
+
+```python
+>>> coordinates = (11, 52)
+>>> coordinates[1]
+52
+```
+
+There is also no way of adding tuples together. Tuples are meant to contain
+only pairs, triplets, etc. of values that belong together in that specific order
+(just like coordinates, or a name and an age).
+Here is an example of a list containing tuples:
+
+```python
+>>> students = [('John', 14), ('Alex', 16), ('Mary', 12)]
+>>> students[0]
+('John', 14)
+```
+
+Since for tuples the length is usually known (as opposed to lists), there
+is an easy way how to extract the values:
+
+```python
+>>> name, age = students[1]
+>>> name + ' is ' + str(age) + ' years old.'
+'Alex is 16 years old.'
+```
