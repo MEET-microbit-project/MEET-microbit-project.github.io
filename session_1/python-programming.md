@@ -159,4 +159,41 @@ Try implementing
 [this program](/editor/editor.html?n=U2FsdGVkX184kpoHOk8anEsAqKFBdox%2FONbDU6d%2Fmkg%3D&c=U2FsdGVkX19Ud9i0NgUQNNxgB3adLB5s5iFOwu6f6iYs62VCqank41A0g3ObyGFI&s=U2FsdGVkX19p9aK%2BkkqI%2BXhLbKEB8t9KR4FmRivG6U%2F2OqoLll5XYsRD%2FQowKxqXR4JSHUGOzuExSUM3ggMSpQpCc8Ay17XiNatfin3XdRfh4J8HR3mdLO1BWJu6cT%2BQPRgQZeaC17HLQTi7Po6WpwwLi0caJNMnEx6ECfE5hVSeFSgtj6SDT9bLUGzgbvPODwdHdur014bvGVkV%2Fr3awwVf2TQSXa80TFFvHcRSifelfTsUdkrALqCwe9iqVIHU6EmdDscxvbDSqezfP6tEVwo4y2bMWDHkk7zrxfZ1lShPISZTYEvr4hoofcX4s8q%2FPBQDQEzeJJVnBU%2BesWLWKgCyhwm4A3B%2BJV7mh0T2xo33A7N8787w8FXniVvAFOmpSSkQJopzFrBlEHvap9wayp0n1ezr2FMRDudH7Fuh31cvQqFG5DBcIrJCxYQ5692DdJshCv6Xqcar3V%2FgHAo%2BTuyI2x9%2Fw61iiTqbalo9sl%2F9lEwWvUNVtzioX6XvE39SRBI4ahTJQXZRoOHgl9MfAx1%2Fw7spiN4sue1sCh2RjY5iZhaaj9Ai84Qx3RIaAb3IeYmEsV6Sze3xMPpOEes0N1A%2BXTg%2BJRMYlpIJqvilQMoh1iTN0Bd24l3rRrqwfthxWoRvpldiDZMO62MQ12bPGgsVgQn8Ue6dHiKrgkozhfawfJVLTLTC%2BTk%2FXhUM0DEogm%2FWY3vjJk3IeqpftSEWme0%2BXpfOI1yPMGXg%2Fo8uQvpgkNVXd0I1coU19qQTGbgYq4d8%2BeyHVyV4TSjZOP3f541vF5bHjaiOGW51CL8UiXcwouDPIofxkJaDXWo%2FTBa605ChU3uuX%2F91WHHtNyWLdw%3D%3D&h=),
 once for each of the loop types you know!
 
+# [](#functions)Functions
+
+A function is the most basic way how to separate your code into different parts
+and make it more reusable.
+
+In a visual way, you can imagine a function as a pipeline, getting some
+values as input and returning some result. Even if you haven't noticed,
+you have seen functions before! `pop` is a function that is called on a list
+and takes one parameter, an index, it returns the item at that index and removes
+it. `len` takes a list as argument and returns it's length.
+
+You call a function by writing it's name, followed by the values you
+want to pass to it enclosed in brackets.
+
+Here is an example of a function definition and it's usage:
+
+```python
+def add_two(number):
+    # The return keyword tells the function what to evaluate to.
+    # You can imagine, the place where the function is called is replaced
+    # with the expression that follows this return keyword
+    return number + 2  # the return keyword must always come at the end
+```
+
+A function doesn't have to return anything (like `append`),
+but the function above would be rather useless if it didn't.
+
+```python
+>>> add_two(3)
+5
+
+>>> num = 7
+>>> new_num = add_two(num)
+>>> new_num
+9
+```
+
 Next up: [session 2 - introduction to the micro:bit](/session_2/microbit-intro)
