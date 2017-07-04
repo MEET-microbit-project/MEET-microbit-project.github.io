@@ -130,6 +130,6 @@ currently stored:
 10.0
 ```
 
-Now it's time to try out what you've learned!
-Go to [this website](https://goo.gl/UkHtX3) and try out different things 
-with the `my_var` variable.
+Now it's time to try out what you've learned! Go to
+[this website](/editor/editor.html?n=U2FsdGVkX18G50f1pc%2BoIiNfOl7NLUF5BQANCOdudA8%3D&c=U2FsdGVkX19SGH9g1Zhr9QXROB6Uy794DhG6DHkbFdhf6aGK3ZVE0kw%2ByXPXLg43&s=U2FsdGVkX1%2BeYdInxLm44Rzw8ZzbgYSkcf1ak6T2l%2BG1818coOqkjPufbx8Y2DA3YvR2R31JizpkXlsR4A3u4WGeTN%2BT0LwTEuVFtaKGHTiCzF%2Bb6cCmEsksv6l6XkU%2BGdI2jk6qfXlNPSsVBa9HM8QOmwdGiX4AD9JxjjXhvxS%2BnGfJR7q%2BsUt68NKj8l0FSaMsktrdkI1RYhpZ1wSYSJhubpC%2BfLcW4dMLx2Oj6SbWLVshxSSepGJ1C76kkKlCMpMOzT7Fi3wUzZOTsybanGKB3BGYIs3o8zwhQd2pYA3K2TbESgeCsb2LNLTuH3N6P%2BKrd5LdjjB62ieq4ADryPTIlzFNoz73CwsT4qUs63wlur3pdEZLvr%2BVdbowHiIx6kTDW%2F2RlqIQRHtMzQLkvg%3D%3D&h=)
+and try out different things with the `my_var` variable.

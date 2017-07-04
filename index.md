@@ -8,12 +8,21 @@ techniques. After that, you can let your creativity run free by writing
 programs for the [bit:bot](https://4tronix.co.uk/blog/?p=1490) robotic car,
 and compete with your fellow programmers in races.
 
-## [](#python-editor)Python editor
-An online Python editor with support for some basic bit:bot controls can be
-found [here](./editor/editor.html).
-
 * * *
 
-There is a [short overview](cheat-sheet) of the most important functions used in this project. For a more guided introduction see the official
-[micropython documentation](https://microbit-micropython.readthedocs.io)
-for the microbit.
+# [](#conent-overview)Content Overview
+
+## [](#general)General
+These are some resources useful throughout the course.
+
+- A [short overview](cheat-sheet) of the most important micro:bit functions
+    - for a more guided introduction see also the official
+    [micropython documentation](https://microbit-micropython.readthedocs.io)
+    for the microbit
+
+- A modified [python editor](/editor/editor.html) with basic bit:bot controls
+
+## [](#sessions)Sessions
+
+1. Introduction to programming with python
+    - [Python Basics](session_1/python-basics)
