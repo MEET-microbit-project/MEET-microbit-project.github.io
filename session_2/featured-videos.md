@@ -44,6 +44,6 @@ from the viewpoint of a robot traveling on the trail itself. Qualitative and qua
 
 A team at the Edinburgh Centre for Robotics has started work with one of the world's most advanced humanoids on the planet, NASA's Valkyrie robot. The two-legged, human shaped robot has been developed with the ultimate goal of sending robots to explore the surface of Mars.
 
-[![Alt text](https://img.youtube.com/vi/BXWS6frB4m8&t/0.jpg)](https://www.youtube.com/watch?v=BXWS6frB4m8&t)
+[![Alt text](https://img.youtube.com/vi/BXWS6frB4m8/0.jpg)](https://www.youtube.com/watch?v=BXWS6frB4m8)
 
 
