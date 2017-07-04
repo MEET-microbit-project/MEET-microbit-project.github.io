@@ -164,6 +164,8 @@ once for each of the loop types you know!
 A function is the most basic way how to separate your code into different parts
 and make it more reusable.
 
+![visualization of a function with pipelines](/img/function.svg)
+
 In a visual way, you can imagine a function as a pipeline, getting some
 values as input and returning some result. Even if you haven't noticed,
 you have seen functions before! `pop` is a function that is called on a list
