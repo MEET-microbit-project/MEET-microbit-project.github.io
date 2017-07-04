@@ -50,7 +50,10 @@ Keep in mind the operation order you know from math!
 
 ```python
 >>> 6 - 2 / 2
-5
+5.0
+
+>>> (6 - 2) / 2  # use brackets to change the operation order
+2.0
 ```
 
 Division always gives a float as a result.
