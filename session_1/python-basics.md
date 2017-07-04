@@ -110,7 +110,7 @@ into a box (Side note: In some languages there are different boxes for different
 things like decimal numbers, integer numbers, etc. In python, however, there is
 one box that fits everything which makes it very easy to write. This kind of programming language is called dynamically typed).
 
-![variable as a box](/img/variable.png)
+![variable as a box](/img/variable.svg)
 
 ```python
 >>> my_number = 42
@@ -163,6 +163,7 @@ to add strings together.
 Sometimes you want to display a variable that isn't a string. For example,
 how could you make a sentence stating the age of Joe? To do this, we must
 convert the integer to a string using the `str` expression:
+
 ```python
 >>> name = 'Joe'
 >>> age = 19
