@@ -282,3 +282,10 @@ is an easy way how to extract the values:
 >>> name + ' is ' + str(age) + ' years old.'
 'Alex is 16 years old.'
 ```
+
+Congratulations! You have finished learning the basic structures in python.
+Next, you are going to learn about the fundamental building blocks of
+programming in python, that is, how to make your programs do useful, and
+more complex things.
+
+Next up: [python programming](python-programming)
