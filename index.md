@@ -29,3 +29,5 @@ The content of all the sessions as a reference.
 1. Introduction to programming with python
     - [Python Basics](session_1/python-basics)
     - [Python Programming](session_1/python-programming)
+2. Introcuction to the bit:bot and robotics
+    - [Featured Videos](session_2/featured-videos)
