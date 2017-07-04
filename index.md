@@ -16,11 +16,12 @@ and compete with your fellow programmers in races.
 These are some resources useful throughout the course.
 
 - A [short overview](cheat-sheet) of the most important micro:bit functions
-    - for a more guided introduction see also the official
+    - For a more guided introduction see also the official
     [micropython documentation](https://microbit-micropython.readthedocs.io)
     for the microbit
 
 - A modified [python editor](/editor/editor.html) with basic bit:bot controls
+    - The original online python editor can be found [here](http://python.microbit.org/editor.html) 
 
 ## [](#sessions)Sessions
 
