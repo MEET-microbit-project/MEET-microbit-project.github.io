@@ -34,7 +34,7 @@ Bielefeld University and Carnegie Mellon University, and EU research projects su
 The group study the problem of perceiving forest or mountain trails from a single monocular image acquired 
 from the viewpoint of a robot traveling on the trail itself. Qualitative and quantitative results computed on a large real-world dataset  show that research groups approach outperforms alternatives, and yields an accuracy comparable to the accuracy of humans that are tested on the same image classification task. 
 
-[![Alt text](https://img.youtube.com/vi/umRdt3zGgpU&t/0.jpg)](https://www.youtube.com/watch?v=umRdt3zGgpU&t)
+[![Alt text](https://img.youtube.com/vi/umRdt3zGgpU/0.jpg)](https://www.youtube.com/watch?v=umRdt3zGgpU)
 
 #### Introducing IBM Watson Health
 
