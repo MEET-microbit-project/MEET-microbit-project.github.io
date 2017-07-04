@@ -21,9 +21,10 @@ These are some resources useful throughout the course.
     for the microbit
 
 - A modified [python editor](/editor/editor.html) with basic bit:bot controls
-    - The original online python editor can be found [here](http://python.microbit.org/editor.html) 
+    - The original online python editor can be found [here](http://python.microbit.org/editor.html)
 
 ## [](#sessions)Sessions
+The content of all the sessions as a reference.
 
 1. Introduction to programming with python
     - [Python Basics](session_1/python-basics)

@@ -131,5 +131,41 @@ currently stored:
 ```
 
 Now it's time to try out what you've learned! Go to
-[this website](/editor/editor.html?n=U2FsdGVkX18G50f1pc%2BoIiNfOl7NLUF5BQANCOdudA8%3D&c=U2FsdGVkX19SGH9g1Zhr9QXROB6Uy794DhG6DHkbFdhf6aGK3ZVE0kw%2ByXPXLg43&s=U2FsdGVkX1%2BeYdInxLm44Rzw8ZzbgYSkcf1ak6T2l%2BG1818coOqkjPufbx8Y2DA3YvR2R31JizpkXlsR4A3u4WGeTN%2BT0LwTEuVFtaKGHTiCzF%2Bb6cCmEsksv6l6XkU%2BGdI2jk6qfXlNPSsVBa9HM8QOmwdGiX4AD9JxjjXhvxS%2BnGfJR7q%2BsUt68NKj8l0FSaMsktrdkI1RYhpZ1wSYSJhubpC%2BfLcW4dMLx2Oj6SbWLVshxSSepGJ1C76kkKlCMpMOzT7Fi3wUzZOTsybanGKB3BGYIs3o8zwhQd2pYA3K2TbESgeCsb2LNLTuH3N6P%2BKrd5LdjjB62ieq4ADryPTIlzFNoz73CwsT4qUs63wlur3pdEZLvr%2BVdbowHiIx6kTDW%2F2RlqIQRHtMzQLkvg%3D%3D&h=)
+[this website](/editor/editor.html?n=U2FsdGVkX19CA9vZm3%2B%2FGZzZt6Ntc9JA3hOwas7bFec%3D&c=U2FsdGVkX19LGeKz9hulB2ZHnZwCMhzWmX1eyc2kbL1efzN%2FIJ2bmDCqYe31bDt3&s=U2FsdGVkX18gcS7u1S%2FjDDSu4SH9w9VdrBj3NAMBGWXLUrisI4%2FVgtWPsn9v0stdJsUcuXvSahBmOeUo%2BROOM%2BhIIA8sZTpLGJb2uHO25zuBH3sAzaU8OpBw4j7se9VDdb61wCbyBneftExdRGgeghmJOoJ6n8fbPOpPUasvivML6uFFvtFPQTV3msycgWn%2BAYZxIxZm265vaeICx13YzZhh9VmKxvPB%2BTPHkhxIgK3SibInfgBkMCLTW3w00%2B4sk1UclpaCgBxtpO9XPuLtvljDfUAcfrwzSqTftUSWTnpDR%2B6EioiXvpM4cNHFyjUwa%2Fc0f1NwuBcEYw8jYHP4kSXEVjugI8Si1EdSQ%2B2HMH9TZieaF%2BSUv0ID7eYTukmzslJYcPlgAvbaP4OPdhmxng%3D%3D&h=)
 and try out different things with the `my_var` variable.
+(The password for this and the following scripts is empty, just click 'Decrypt')
+
+## [](#strings)Strings
+In programming, text (a sequence of text characters) is called a string.
+To tell python is a string, it has to be enclosed in either single quotation
+marks (`'...'`) or double quotation marks (`"..."`). In some languages single quotation marks are reserved for characters but in python you can use them
+interchangeably.
+```python
+>>> 'Hello, World!'
+'Hello, World!'
+```
+
+Just like numbers, strings can be saved in variables, and you can even use `+`
+to add strings together.
+
+```python
+>>> name = 'Joe'
+>>> name
+'Joe'
+
+>>> 'Hello, ' + name + '!'
+'Hello, Joe!'
+```
+
+Sometimes you want to display a variable that isn't a string. For example,
+how could you make a sentence stating the age of Joe? To do this, we must
+convert the integer to a string using the `str` expression:
+```python
+>>> name = 'Joe'
+>>> age = 19
+>>> name + ' is ' + str(age) + ' years old.'
+'Joe is 19 years old.'
+```
+
+Why not try this out in the micro:bit program from before? Can you spot where
+the number we used before was converted to a string?
