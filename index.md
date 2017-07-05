@@ -6,7 +6,8 @@ We are starting out with the [BBC micro:bit](https://microbit.org/) to get a
 firm grasp on how to control hardware components and basic programming
 techniques. After that, you can let your creativity run free by writing
 programs for the [bit:bot](https://4tronix.co.uk/blog/?p=1490) robotic car,
-and compete with your fellow programmers in races.
+and compete with your fellow programmers in races. For more in depth, information 
+please consult out [handbook material](Handbook)
 
 * * *
 
