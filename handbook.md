@@ -1,5 +1,6 @@
 Getting Started
 ===============
+![getting started banner](/img/handbook-1.jpg)
 
 Welcome on board, joining our journey through the world of Computer Science.
 In these couple of weeks, we will do our very best to assist you
@@ -23,6 +24,8 @@ micro-controller used for computer science education around the world.
 
 Introduction to Programming with Python
 =======================================
+
+![Python programing banner](/img/handbook-2.png)
 
 Brief History of Computers
 --------------------------
@@ -59,6 +62,8 @@ device theorised to study the properties of such hardware.
 
 Programming Languages
 ---------------------
+
+![Programing language banner](/img/handbook-3.png)
 
 Whenever you give a task to a machine it will not have any clue what
 to do by itself, you have to tell it exactly what to do.
@@ -150,6 +155,8 @@ are going to explore in our project!
 Overview of Python
 ------------------
 
+![Python overview banner](/img/handbook-4.png)
+
 Python is a powerful, high-level, object-oriented programming language
 created by Guido van Rossum. It has simple and easy-to-use syntax, making it
 the perfect language for someone trying to learn computer programming
@@ -166,6 +173,8 @@ you can write state of the art machine learning programs.
 Writing Python
 ---------------
 
+![Writing code banner](/img/handbook-5.jpg)
+
 In this course, we are going to use a website, specifically for the micro:bit.
 But if you want to program in python on your own, follow the instructions below.
 
@@ -180,6 +189,8 @@ development environments) like *PyCharm* or *Visual Studio* can be used.
 
 Learning Python
 ----------------
+
+![learning Python banner](/img/handbook-6.jpg)
 
 The detailed course material we will be covering together can be
 found on the project website
@@ -200,6 +211,9 @@ Python after this project. Here are some good ones to start out from:
 
 Introduction to Robotics with the Bit:Bot
 =========================================
+
+![Robotics banner](/img/handbook-7.jpg)
+
 
 History of Robotics
 -------------------
@@ -254,6 +268,8 @@ extraterrestrial and extrasolar research.
 Why Is Robotics Still Hard?
 ---------------------------
 
+![DAPRA challenge banner](/img/handbook-8.jpg)
+
 Making robots is no easy task. If you talk to roboticists, they will
 tell you that it took years before the last robot they built or
 programmed was any good at performing a specific task. And although you
@@ -263,6 +279,7 @@ looking at why robotics still requires years of research before seeing
 them in our everyday life.
 
 ### Power
+![DAPRA participant with big batery](/img/handbook-9.jpg)
 
 Most robots are required to operate without being plugged into a power
 socket. This means they need to carry their own energy source, be it a
@@ -283,6 +300,8 @@ the robot. The reality is that robots are often docked to a charging
 station.
 
 ### Sensing
+![Sensor overview](/img/handbook-10.bmp)
+
 
 Did you ever wonder why most demos show robots manipulating objects with
 bright colours? Robots still have a hard time recognising everyday
@@ -296,6 +315,8 @@ burden. Beyond vision, touch and sound are still rarely used in
 robotics.
 
 ### Manipulation
+![Barista robot banner](/img/handbook-11.jpg)
+
 
 Industrial robots are very successful at manipulating specific
 pre-defined objects in a repetitive manner. Manipulation outside of
@@ -308,6 +329,8 @@ us to interact with everyday objects in a robotic hand – using these
 manipulators often requires precise planning.
 
 ### Cognition
+![Robotic thinking  banner](/img/handbook-12.jpg)
+
 
 Current robots typically use well-determined algorithms that allow them
 to complete specific tasks, for example navigating from point A to point
@@ -326,6 +349,7 @@ palm of their hand through practice, rather than the development of a
 real understanding of the laws of physics.
 
 ### Unstructured environments
+![curiosity banner](/img/handbook-13.jpg)
 
 The world is a messy place, and for most robots, operating in
 unstructured environments is difficult. That’s why commercial robots
@@ -336,6 +360,7 @@ vacuum cleaner robots.
 
 Overview of Bit:Bot
 -------------------
+![bit:bot picture](/img/handbook-14.jpg)
 
 A great way to engage with both robotics and Python is through the usage
 of the bit:bot – a robotic car powered by the micro:bit. Bit:bot has the
