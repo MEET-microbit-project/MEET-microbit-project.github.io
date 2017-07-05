@@ -35,3 +35,5 @@ The content of all the sessions as a reference.
     - [Introduction to the bit:bot robot](session_2/bitbot-intro)
 3. Bit:bot challenge
     - [Macau Grand Prix](session_3/challenge-macau-grand-prix)
+4. Preparation for Internal showcase
+    - [Tips for presentation](session_5/presentation-tips)
