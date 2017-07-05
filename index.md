@@ -15,10 +15,9 @@ and compete with your fellow programmers in races.
 ## [](#general)General
 These are some resources useful throughout the course.
 
-- A [short overview](cheat-sheet) of the most important micro:bit functions
-    - For a more guided introduction see also the official
-    [micropython documentation](https://microbit-micropython.readthedocs.io)
-    for the microbit
+- For a guided introduction see also the official
+[micropython documentation](https://microbit-micropython.readthedocs.io)
+for the microbit
 
 - A modified [python editor](/editor/editor.html) with basic bit:bot controls
     - The original online python editor can be found [here](http://python.microbit.org/editor.html)
@@ -28,3 +27,8 @@ The content of all the sessions as a reference.
 
 1. Introduction to programming with python
     - [Python Basics](session_1/python-basics)
+    - [Python Programming](session_1/python-programming)
+2. Introcuction to the micro:bit and robotics
+    - [Introduction to the micro:bit](session_2/microbit-intro)
+    - [Featured Videos](session_2/featured-videos)
+    - [Introduction to the bit:bot robot](session_2/bitbot-intro)

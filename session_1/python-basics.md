@@ -134,7 +134,8 @@ currently stored:
 ```
 
 Now it's time to try out what you've learned! Go to
-[this website](/editor/editor.html?n=U2FsdGVkX19CA9vZm3%2B%2FGZzZt6Ntc9JA3hOwas7bFec%3D&c=U2FsdGVkX19LGeKz9hulB2ZHnZwCMhzWmX1eyc2kbL1efzN%2FIJ2bmDCqYe31bDt3&s=U2FsdGVkX18gcS7u1S%2FjDDSu4SH9w9VdrBj3NAMBGWXLUrisI4%2FVgtWPsn9v0stdJsUcuXvSahBmOeUo%2BROOM%2BhIIA8sZTpLGJb2uHO25zuBH3sAzaU8OpBw4j7se9VDdb61wCbyBneftExdRGgeghmJOoJ6n8fbPOpPUasvivML6uFFvtFPQTV3msycgWn%2BAYZxIxZm265vaeICx13YzZhh9VmKxvPB%2BTPHkhxIgK3SibInfgBkMCLTW3w00%2B4sk1UclpaCgBxtpO9XPuLtvljDfUAcfrwzSqTftUSWTnpDR%2B6EioiXvpM4cNHFyjUwa%2Fc0f1NwuBcEYw8jYHP4kSXEVjugI8Si1EdSQ%2B2HMH9TZieaF%2BSUv0ID7eYTukmzslJYcPlgAvbaP4OPdhmxng%3D%3D&h=)
+<!-- 1_variables.py -->
+[this website](/editor/editor.html?n=U2FsdGVkX18rFQnuLbYMCsvJW2TgBtMJhZqQ5Z5vP0c%3D&c=U2FsdGVkX1%2F3t%2BqQqoB6xzcrCJgIIjZgb8GJW7i3siqU1OegtLHmM5Vcy91%2BCoNh&s=U2FsdGVkX1%2F7tf1RUkGZTyAofKUNSu2qxOWVE2Bv4ThcHvRO23RBuOVrxGSU8a0wmrEd%2BhCa7X4idHMNhSXLt0UPRLsz1CmoPGp6GvvgDjLuUUvqmyJ2dO661VcGuHhTyRc%2B2skVWc8zIhSmJeSGjm3hro3QtUA2gyQfOF%2FOb3hZJVCt7NmFArYjAiEkR2uPbBxvcI5jVVGIV0mBqAa%2BU3r88MWTkBypACFFnD%2Br%2F3nsEBtMMCxmlN2HBmzDouV79aaMLeVFUzeyDdWksCyKHgmtwpbJJ84DJGbVdG%2FHxqxL1R625tiDOsrPsqEa7Qxj0BjRlQzmVLtkh1R6OC7mtrpVwOrOKmFeDeD9jMNXrA90sB6NjDJ%2B%2BGx6njyDAa0vfTOGyqdSX%2BtBjjGFIUqYgg%3D%3D&h=)
 and try out different things with the `my_var` variable.
 (The password for this and the following scripts is empty, just click 'Decrypt')
 
@@ -217,6 +218,8 @@ use a variable instead:
 'My favorite food is pizza.'
 ```
 
+## [](#list-operations) List Operations
+
 If you have two lists, it is easy to put them together:
 
 ```python
@@ -239,6 +242,13 @@ That means you can change a list by adding or removing elements.
 'pizza'
 >>> my_list
 [1, 2, 'rice', 42]
+```
+
+You can get the length of a list using `len`:
+```python
+>>> l = [1, 2, 3, 4, 'toast']
+>>> len(l)
+5
 ```
 
 # [](#tuples)Tuples
@@ -273,3 +283,10 @@ is an easy way how to extract the values:
 >>> name + ' is ' + str(age) + ' years old.'
 'Alex is 16 years old.'
 ```
+
+Congratulations! You have finished learning the basic structures in python.
+Next, you are going to learn about the fundamental building blocks of
+programming in python, that is, how to make your programs do useful, and
+more complex things.
+
+Next up: [python programming](python-programming)
