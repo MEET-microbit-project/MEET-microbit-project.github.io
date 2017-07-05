@@ -35,4 +35,4 @@ The content of all the sessions as a reference.
     - [Featured Videos](session_2/featured-videos)
     - [Introduction to the bit:bot robot](session_2/bitbot-intro)
 3. Bit:bot challenge
-    - [Macau Grand Prix](session_3/Challenge-Macau-grand-prix)
+    - [Macau Grand Prix](session_3/challenge-Macau-grand-Prix)
