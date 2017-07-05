@@ -134,6 +134,7 @@ currently stored:
 ```
 
 Now it's time to try out what you've learned! Go to
+<!-- 1_variables.py -->
 [this website](/editor/editor.html?n=U2FsdGVkX18rFQnuLbYMCsvJW2TgBtMJhZqQ5Z5vP0c%3D&c=U2FsdGVkX1%2F3t%2BqQqoB6xzcrCJgIIjZgb8GJW7i3siqU1OegtLHmM5Vcy91%2BCoNh&s=U2FsdGVkX1%2F7tf1RUkGZTyAofKUNSu2qxOWVE2Bv4ThcHvRO23RBuOVrxGSU8a0wmrEd%2BhCa7X4idHMNhSXLt0UPRLsz1CmoPGp6GvvgDjLuUUvqmyJ2dO661VcGuHhTyRc%2B2skVWc8zIhSmJeSGjm3hro3QtUA2gyQfOF%2FOb3hZJVCt7NmFArYjAiEkR2uPbBxvcI5jVVGIV0mBqAa%2BU3r88MWTkBypACFFnD%2Br%2F3nsEBtMMCxmlN2HBmzDouV79aaMLeVFUzeyDdWksCyKHgmtwpbJJ84DJGbVdG%2FHxqxL1R625tiDOsrPsqEa7Qxj0BjRlQzmVLtkh1R6OC7mtrpVwOrOKmFeDeD9jMNXrA90sB6NjDJ%2B%2BGx6njyDAa0vfTOGyqdSX%2BtBjjGFIUqYgg%3D%3D&h=)
 and try out different things with the `my_var` variable.
 (The password for this and the following scripts is empty, just click 'Decrypt')
