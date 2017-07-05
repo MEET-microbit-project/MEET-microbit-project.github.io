@@ -15,11 +15,10 @@ and compete with your fellow programmers in races.
 ## [](#general)General
 These are some resources useful throughout the course.
 
-- An introduction to topics of this course take a look at the [handbook](handbook)
+- For an introduction to topics of this course take a look at the [handbook](handbook)
 
-- For a guided introduction see also the official
-[micropython documentation](https://microbit-micropython.readthedocs.io)
-for the microbit
+- For a guided introduction to programming withthe micro:bit see also the official
+[micro:bit micropython documentation](https://microbit-micropython.readthedocs.io)
 
 - A modified [python editor](/editor/editor.html) with basic bit:bot controls
     - The original online python editor can be found [here](http://python.microbit.org/editor.html)
