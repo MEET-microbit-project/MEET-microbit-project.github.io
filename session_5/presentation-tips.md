@@ -39,9 +39,6 @@ Relax, Breathe and Enjoy
 --------------------------
 If you find presenting difficult, it can be hard to be calm and relaxed about doing it. One option is to start by concentrating on your breathing. Slow it down, and make sure that you’re breathing fully. Make sure that you continue to pause for breath occasionally during your presentation too.
 
-
-
-
-
+![alt text](http://www.pgf.rgs.org/wp-content/uploads/keep-calm-and-enjoy-your-presentation.png)
 
 You can read more [here](https://www.skillsyouneed.com/present/presentation-tips.html)
