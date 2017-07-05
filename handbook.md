@@ -1,4 +1,4 @@
-Getting started
+Getting Started
 ===============
 
 Welcome on board, joining our journey through the world of Computer Science.
@@ -21,7 +21,7 @@ website:
 During our project, we will be using the BBC micro:bits – an ARM-based
 micro-controller used for computer science education around the world.
 
-Introduction to programming with Python
+Introduction to Programming with Python
 =======================================
 
 Brief History of Computers
@@ -57,7 +57,7 @@ able to do anything that could be described "purely mechanically." The
 theoretical *Turing Machine*, envisioned by Alan Turing, is a hypothetical
 device theorised to study the properties of such hardware.
 
-Programming languages
+Programming Languages
 ---------------------
 
 Whenever you give a task to a machine it will not have any clue what
@@ -198,7 +198,7 @@ Python after this project. Here are some good ones to start out from:
 -   Python programming tutorial in the single video by Derek Banas
     available on YouTube.
 
-Introduction to Robotics with the bit:bot
+Introduction to Robotics with the Bit:Bot
 =========================================
 
 History of Robotics
@@ -251,7 +251,7 @@ dangerous, dull or impossible for humans to achieve. Indeed, robots are
 being launched into space to complete the next stages of
 extraterrestrial and extrasolar research.
 
-Why is robotics still hard?
+Why Is Robotics Still Hard?
 ---------------------------
 
 Making robots is no easy task. If you talk to roboticists, they will
@@ -334,7 +334,7 @@ the open air, and underwater. On the other side, there are very few
 robots that operate autonomously in the home environment, other than
 vacuum cleaner robots.
 
-Overview of bit: bot
+Overview of Bit:Bot
 -------------------
 
 A great way to engage with both robotics and Python is through the usage
