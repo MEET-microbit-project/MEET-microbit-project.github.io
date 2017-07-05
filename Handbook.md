@@ -1,12 +1,12 @@
 Getting started
 ===============
 
-Welcome on board joining our journey in the world of Computer Science.
-In these couple of weeks, we promise to do our very best to assist you
-and guide through challenges you will face. Do not worry if you have not
-done any programming before because everything will be though along the
-way. We encourage you to be curious in the upcoming weeks, ask questions
-for which we will try to find the best answers.
+Welcome on board, joining our journey through the world of Computer Science.
+In these couple of weeks, we will do our very best to assist you
+and guide you through challenges you will face. Do not worry if you have not
+done any programming before because everything will be taught along the
+way. We encourage you to be curious in the upcoming weeks, we will try to find
+the best answer to all of your questions!
 
 This handbook serves as:
 
@@ -14,11 +14,11 @@ This handbook serves as:
 
 -   Future reference for ideas after the project ends
 
-All the files related our project and more you can find at course
+All the files related to our project and more can be found on the course
 website:
 [macau.computer-science.party](http://macau.computer-science.party/)
 
-During our project, we will be using BBC micro:bits – ARM-based
+During our project, we will be using the BBC micro:bits – an ARM-based
 micro-controller used for computer science education around the world.
 
 Introduction to programming with Python
@@ -31,179 +31,175 @@ Before the 1920s, *computers* (sometimes *computors*) were human clerks
 that performed computations. They were usually under the lead of a
 physicist. Many thousands of computers were employed in commerce,
 government, and research establishments. Some performed astronomical
-calculations for calendars, others ballistic tables for the military.
+calculations for calendars, others created ballistic tables for the military.
 
 After the 1920s, the expression *computing machine* referred to any
 a machine that performed the work of a human computer, especially those in
-accordance with effective methods of the Church-Turing thesis. The
-the thesis states that a mathematical method is effective if it could be set
+accordance with effective methods of the *Church-Turing thesis*. The
+thesis states that a mathematical method is effective if it could be set
 out as a list of instructions able to be followed by a human clerk with
 paper and pencil, for as long as necessary, and without ingenuity or
 insight.
 
 Machines that computed with continuous values became known as
-the *analog* kind. They used machinery that represented continuous
+*analog*. They used machinery that represented continuous
 numeric quantities, like the angle of a shaft rotation or difference in
 electrical potential. Digital machinery, in contrast to analog, could
 render a state of a numeric value and store each individual digit.
 Digital machinery used difference engines or relays before the invention
 of faster memory devices. The phrase *computing machine* gradually gave
-way, after the late 1940s, to just *computer* as the onset of electronic
+way, after the late 1940s, to just *computer* as electronic
 digital machinery became common. These computers could perform the
-calculations that were performed by the previous human clerks. Since the
+calculations that were performed previously by the human clerks. Since the
 values stored by digital machines were not bound to physical properties
 like analog devices, a logical computer, based on digital equipment, was
-able to do anything that could be described "purely mechanical." The
-theoretical Turing Machine, created by Alan Turing, is a hypothetical
+able to do anything that could be described "purely mechanically." The
+theoretical *Turing Machine*, envisioned by Alan Turing, is a hypothetical
 device theorised to study the properties of such hardware.
 
 Programming languages
 ---------------------
 
-Whenever you give a task for the machine it does not have any clue what
-to do by itself, the only clue is you. During the time computers have
+Whenever you give a task to a machine it will not have any clue what
+to do by itself, you have to tell it exactly what to do.
+Over the time computers seem to have
 become smarter and now have some understanding of your work but that is
-just because someone a long time ago said to him that this is the way
+just because someone instructed it that this is the way
 our world works. For instance, if you ask your school calculator (which
-by itself is a computer too) to divide 5 by 0 you will get an error. It
+is a computer too) to divide 5 by 0 you will get an error. It
 won’t try to calculate the result because someone (a programmer) told
 him that division by 0 is not a valid action in the world of mathematics
-and informed the machine what to do in the situation like this.
+and informed the machine what to do in a situation like this.
 
-When communicating with the computer we not only encounter the absence
-of its understanding but the problem of simple communication to tell it
-what to do. In our utopia kind of world, we could love for computers to
+When communicating with the computer, we will not only encounter the limits
+of its understanding, but a difficulty with simple communication to tell it
+what to do. In a ideal kind of world, computers would be able to
 understand human language (English, Cantonese, Swahili etc.).
 Unfortunately, this kind approach would have two major problems:
 
 -   **Human spoken languages are ambiguous**
 
-Already in your lifetime you have encountered a situation when the same 
-the sentence said for two different people may be interpreted/understood 
-differently: For instance, sentence “Alice saw the Bob with a telescope” 
-could have two meanings:
+Often in human languages, a sentence may be interpreted/understood
+in different ways: For instance,
+the sentence “Alice saw Bob with a telescope” could have two meanings:
 
 -   Alice saw Bob who was carrying a telescope
 
--   Alice saw Bob using a telescope as a device to do so.
+-   Alice saw Bob through a telescope
 
-Both interpretations are valid (though the first one seems more probable to
-be the real one from our English understanding). The computer would not know
-which one to choose in this case. Moreover, this is not the only
-sentence in English that would have such a behaviour so just listing
-what to do in each situation would be labour intensive. Besides that,
-there would be even greater problems to maintain machines understanding
-of English because it is an actively spoken human language for which the
-number of valid words and grammar expressions change constantly. To cope
-with these changes machine would have actively increased its English
-understanding along the way, but as mentioned before a machine cannot do
-it by itself, it needs human intervention.
+Both interpretations are valid. The computer would not know
+which one to choose in this case. There are many such sentences in English,
+sojust listing what todo in each situation (i.e. context) cannot be done.
+Besides that, there would be another problem to maintain a machine's
+understanding of English: Because it is actively developing, the number of valid
+words and grammar expressions change constantly.
 
 -   **Computers by itself cannot understand these languages.**
 
-Since the invention of the first computer, every computer ever builds uses
-binary as its main/native communication language. Binary is a special
-language represented by two symbols 0 and 1. This language is favourable
-by the computers because it can easily understand it. Computers
+Under the hood of a modern computer, it only understands two states:
+high voltage and low voltage, its native language is binary. Binary is a special
+language represented by the two symbols 0 and 1. Computers
 understand high voltage in the chip as 1 and low voltage as 0. From
-these two symbols (similarly to Morse code) more complicated stuff can
-be built, for instance, using 8 bits (2 bytes) you can
-represent all English language characters using ASCII system.
+these two symbols (similar to Morse code) more complicated stuff can
+be built, for instance using 8 binary digits (called 8 bit or 2 bytes) you can
+represent all English language characters using the so called *ASCII* system.
 
-![alt text](https://s-media-cache-ak0.pinimg.com/736x/95/d9/bd/95d9bda9be33661d5dc8e24f8f1c40cc--brownie-ideas-technology-gadgets.jpg "ASCII symbol system")
+![ASCII symbol system](https://s-media-cache-ak0.pinimg.com/736x/95/d9/bd/95d9bda9be33661d5dc8e24f8f1c40cc--brownie-ideas-technology-gadgets.jpg)
 
-Using these symbols every machine has its own instruction set for which
-each member is represented by 32 bits (64 bit for newer computers).
-These instructions say for a computer when executing one or other kind
-of encrypted program. Instruction describes simple stuff like adding two
-numbers or storing the result in the memory but by just using these you
-can already do quite a complicated stuff.
+Using these binary symbols, every machine has its own instruction set for which
+each instruction is represented by 32 bits (64 bit for newer computers).
+Any of these instruction is very simple like "adding two
+numbers" or "store a value in the memory" but by just using these you
+can already create very complex programs.
 
-Unfortunately, the biggest drawback of a machine language that it cannot
-be understood by humans you can easily check what an instruction
-01001011010110010010011110010101 does but writing them by itself would
-be a tedious stuff. For this reason, assembly languages were
-introduced. Assembly language is a language which has a one-to-one
-correspondence with a machine language. The main difference between it
+The biggest drawback of a machine language is that it cannot
+be understood by humans. To check manually what this instruction
+`01001011010110010010011110010101` does for example, would mean tediously
+looking it up in a table. For this reason, assembly languages were
+introduced. Assembly language has a one-to-one
+correspondence with a machine language (in other words, for each of the
+binary instructions there is a human readable command).
+The main difference between it
 and machine language is that it encodes the meaning of the instruction
 which cannot be seen in machine language. The translation from an
 assembly language to machine language is done by a special program
-called assembler in a process of assembling ( the program is making other
-programs, is it not cool?)
+called *assembler* in a process called assembling (a program is writing another
+program, isn't that cool?). Each different computer with its own set of
+instructions would need it's own assembler.
 
-Assembly language was a short-term solution. It was realised that just
-to produce a simple task like taking two numbers from the user input
-adding them up and printing the result takes a bunch of assembly
-instructions, hence the new level of abstraction was introduced to
+Assembly language was a first step to a solution. It was realised that just
+to produce a simple task like taking two numbers from the user input,
+adding them up, and printing the result takes a whole bunch of assembly
+instructions. Hence a new level of abstraction was introduced to
 encapsulate the common stuff done by everyone. This led to the
-development of High-level programming language such as C, FORTRAN, and
-Pascal which is still used for today. The translation from high level
-language such as C to assembly language such as MIPS is done by yet
-another program called compiler in the process called compiler (seems
+development of *high-level* programming language such as *C*, *FORTRAN*, and
+*Pascal* which are still used today. The translation from high level
+language such as *C* to an assembly language is done by yet
+another program called compiler in the process called compiling (seems
 familiar?)
 
 Of course, the abstractions and solutions given by one language sometimes
-did not offer the solutions needed for everyone but more specialised
+do not offer the solutions needed for everyone. More specialised
 and convenient programming language are created every day. Currently,
-there are thousands of programming language suited more for one or other
-purpose and given different kind of functionality with its own
+there are thousands of programming languages, each suited more for one
+purpose or another, and providing different kinds of functionality with its own
 trade-offs. Currently, the most popular and widely used programming
-languages in the world are Java, C++, and Python which we are going to
-explore in our project!
+languages in the world are *JavaScript*, *Java*, *C/C++*, and *Python* which we
+are going to explore in our project!
 
 Overview of Python
 ------------------
 
-Python is a powerful high-level, object-oriented programming language
-created by Guido van Rossum. It has simple easy-to-use syntax, making it
+Python is a powerful, high-level, object-oriented programming language
+created by Guido van Rossum. It has simple and easy-to-use syntax, making it
 the perfect language for someone trying to learn computer programming
 for the first time. It is a general-purpose language which has a wide
-range of applications from Web development (Django and Bottle),
-scientific and mathematical computing (Orange, SymPy, NumPy) to desktop
-graphical user Interfaces (Pygame, Panda3D). The syntax of the language
-is clean and length of the code is relatively short. It's fun to work in
-Python because it allows you to think about the problem rather than
+range of applications from web development (e.g. *Django*, *Flask*, *Bottle*),
+scientific and mathematical computing (*Pandas*, *NumPy*, *scikit-learn*)
+to desktopgraphical user Interfaces (*Pygame*, *Panda3D*). The syntax of the
+language is clean and length of the code is relatively short. It's fun to work
+in Python because it allows you to think about the problem rather than
 focusing on the syntax. At the same time, it is a very powerful
-language. One of the most notable things created using Python is
-TensorFlow library produced by Google™ which is currently the most
-widely used machine learning platform in the world.
+language. Using *TensorFlow* for example,
+you can write state of the art machine learning programs.
 
-Writing Python 
+Writing Python
 ---------------
+
+In this course, we are going to use a website, specifically for the micro:bit.
+But if you want to program in python on your own, follow the instructions below.
 
 To write Python on any computer and to interpret it you need to install
 Python on your device. You can do it by going to
-[www.python.org](http://www.python.org) and following instructions for a
+[www.python.org](http://www.python.org) and following instructions for the
 specific operating system you are using. After installing Python on your
 device, you will need a text editor in which you will be writing your
-code to compile. The one that we will be using is Mu integrated into this website so
-down worry about this at the moment. In the real-world applications other, more
-sophisticated text editors such as ATOM or even IDE’s (integrated
-development environments) like PyCharm or Visual Studio should be used.
+code to compile. In real-world application other, more
+sophisticated text editors such as *Atom* or even IDE’s (integrated
+development environments) like *PyCharm* or *Visual Studio* can be used.
 
 Learning Python
 ----------------
 
-The detailed overview of the exercises we fill be doing together can be
+The detailed course material we will be covering together can be
 found on the project website
 [macau.computer-science.party](macau.computer-science.party)
 
-There are plenty resources to expand your understanding and skills in
-Python after this project. Here we give an example of a couple of
-resources to do so:
+There are plenty of resources to expand your understanding and skills in
+Python after this project. Here are some good ones to start out from:
 
 -   [docs.python.org](docs.python.org) official Python tutorials created
-    by Python Software Foundation
+    by the Python Software Foundation
 
 -   Learn Python the Hard Way: A very Simple Introduction to the
     Terrifyingly Beautiful World of Computer Code by Zed A. Shaw (free
-    .pdf available online)
+    PDF available online)
 
 -   Python programming tutorial in the single video by Derek Banas
-    available at YouTube.
+    available on YouTube.
 
-Introduction to Robotics with bit:bot
-=====================================
+Introduction to Robotics with the bit:bot
+=========================================
 
 History of Robotics
 -------------------
@@ -217,7 +213,7 @@ built automatons to work for him in a workshop.
 In the Middle Ages, in both Europe and the Middle East, automatons were
 popular as part of clocks and religious worship. Many other automata
 were created that showed moving animals and humanoid figures that
-operated on simple cam systems, but in the 18^th^ century, automata were
+operated on simple cam systems, but in the 18<sup>th</sup> century, automata were
 understood well enough and technology advanced to the point where much
 more complex pieces could be made. Automata were so popular that they
 travelled Europe entertaining heads of state such as Frederick the Great
@@ -231,16 +227,16 @@ the nineteenth century, his most successful projects being the difference
 engine and the analytical engine.
 
 Automata continued to provide entertainment
-during the 19^th^ century, but coterminous with this period was the
+during the 19<sup>th</sup> century, but coterminous with this period was the
 development of steam-powered machines and engines that helped to make
 manufacturing much more efficient and quick. Factories began to employ
 machines to either increase workloads or precision in the production of
 many products. 
 
- In 1920, Karel Capek published his play R.U.R. (Rossum’s Universal
+In 1920, Karel Capek published his play R.U.R. (Rossum’s Universal
 Robots), which introduced the word “robot.” It was taken from an old
 Slavic word that meant something akin to “monotonous or forced labour.”
-However, it was thirty years before the first industrial robot went to
+However, this was thirty years before the first industrial robot went to
 work. In the 1950s, George Devol designed the Unimate, a robotic arm
 device that transported die castings in a General Motors plant in New
 Jersey, which started work in 1961. 
@@ -255,8 +251,8 @@ dangerous, dull or impossible for humans to achieve. Indeed, robots are
 being launched into space to complete the next stages of
 extraterrestrial and extrasolar research.
 
-Why making robots is still a hard task?
----------------------------------------
+Why is robotics still hard?
+---------------------------
 
 Making robots is no easy task. If you talk to roboticists, they will
 tell you that it took years before the last robot they built or
@@ -365,5 +361,3 @@ following features:
 -   Extension port for additional neopixels
 
 -   Expansion connections at the front for additional sensors
-
-
