@@ -31,7 +31,7 @@ This means you can't use the buttons while connected to the
 bit:bot, but it also means line detection is very easy:
 ```python
 # this could be part of a line-following program
-if button_a.is_pressed():
+if not button_a.is_pressed():
     # there is a line on the left, move right
 ```
 
