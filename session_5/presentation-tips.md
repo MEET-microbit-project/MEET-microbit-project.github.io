@@ -4,8 +4,7 @@ In the final session of our project you will be presenting what you manage to do
 Ability to present something is sometime even more important than your idea as the good presentation may
 help you to sell even not so good idea. here are few tips to keep in mind while presenting:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g0TaYhjpOfo" frameborder="0" allowfullscreen></iframe>
-
+<img src="https://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/09/presentation1-1200x681.jpg" alt="presentation" align="middle">
 
 
 #### Show your Passion and Connect with your Audience
