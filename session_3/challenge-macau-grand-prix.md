@@ -1,10 +1,12 @@
-Bit:bot Challenge: Macau Grand Prix
-====================================
+ Macau Grand Prix Challenge
+=============================
+![ald text](https://www.devittinsurance.com/wp-content/uploads/2016/04/MacauGP-710x444.png)
 
 For a bit:bot programming challenge we decided to explore the world of
 racing cars, and what would be a better route than the Macau Grand Prix!
 
 ![2008 Macau Grand Prix](https://upload.wikimedia.org/wikipedia/commons/a/aa/2008_Macau_F3_GP.JPG "2008 Macau Grand Prix")
+
 
 Of course, trying to track the whole Grand Prix route may be bit too much for
 our challenge because as we talked in previous sessions, the real world is
