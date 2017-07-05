@@ -257,7 +257,7 @@ Why is robotics still hard?
 Making robots is no easy task. If you talk to roboticists, they will
 tell you that it took years before the last robot they built or
 programmed was any good at performing a specific task. And although you
-may see videos of impressive robot feats, the reality is often more
+may see videos of impressive robotic feats, the reality is often more
 sobering. So why is it difficult to make robots? Here’s a breakdown
 looking at why robotics still requires years of research before seeing
 them in our everyday life.
@@ -338,7 +338,7 @@ Overview of bit: bot
 -------------------
 
 A great way to engage with both robotics and Python is through the usage
-of bit:bot – a robotic car powered with micro:bit. Bit:bot has the
+of the bit:bot – a robotic car powered by the micro:bit. Bit:bot has the
 following features:
 
 -   2 micro metal gear motors. Both fully controllable in software, for

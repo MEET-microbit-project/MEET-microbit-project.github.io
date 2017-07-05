@@ -6,8 +6,7 @@ We are starting out with the [BBC micro:bit](https://microbit.org/) to get a
 firm grasp on how to control hardware components and basic programming
 techniques. After that, you can let your creativity run free by writing
 programs for the [bit:bot](https://4tronix.co.uk/blog/?p=1490) robotic car,
-and compete with your fellow programmers in races. For more in depth, information 
-please consult out [handbook material](Handbook)
+and compete with your fellow programmers in races.
 
 * * *
 
@@ -15,6 +14,8 @@ please consult out [handbook material](Handbook)
 
 ## [](#general)General
 These are some resources useful throughout the course.
+
+- An introduction to topics of this course take a look at the [handbook](handbook)
 
 - For a guided introduction see also the official
 [micropython documentation](https://microbit-micropython.readthedocs.io)
