@@ -19,6 +19,9 @@ These are some resources useful throughout the course.
 
 - For an introduction to topics of this course take a look at the [handbook](handbook)
 
+- An online cheat sheet for programming the microbit can be found
+[here](https://microbit-playground.co.uk/cheat-sheet/)
+
 - For a guided introduction to programming withthe micro:bit see also the official
 [micro:bit micropython documentation](https://microbit-micropython.readthedocs.io)
 
