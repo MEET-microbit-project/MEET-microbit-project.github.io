@@ -8,7 +8,7 @@ techniques. After that, you can let your creativity run free by writing
 programs for the [bit:bot](https://4tronix.co.uk/blog/?p=1490) robotic car,
 and compete with your fellow programmers in races.
 
-![macau coloru micro:bit](/img/macau-color-microbit.png =300x)
+![macau coloru micro:bit](/img/macau-color-microbit.png)
 
 * * *
 
