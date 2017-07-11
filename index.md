@@ -18,6 +18,7 @@ and compete with your fellow programmers in races.
 These are some resources useful throughout the course.
 
 - For an introduction to topics of this course take a look at the [handbook](handbook)
+    - A full version of the handbook is also available as [pdf](handbook-full.pdf)
 
 - An online cheat sheet for programming the microbit can be found
 [here](https://microbit-playground.co.uk/cheat-sheet/)
